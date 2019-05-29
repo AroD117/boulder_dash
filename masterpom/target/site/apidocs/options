@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/héhé/git/lorann/showboard/target/classes;C:/Users/héhé/git/lorann/contract/target/classes;C:/Users/héhé/git/lorann/controller/target/classes;C:/Users/héhé/git/lorann/model/target/classes;C:/Users/héhé/git/lorann/view/target/classes;C:/Users/héhé/git/lorann/main/target/classes;C:/Users/héhé/.m2/repository/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar'
+-encoding
+'Cp1252'
+-protected
+-sourcepath
+'C:/Users/héhé/git/lorann/showboard/src/main/java;C:/Users/héhé/git/lorann/showboard/target/generated-sources/annotations;C:/Users/héhé/git/lorann/contract/src/main/java;C:/Users/héhé/git/lorann/contract/target/generated-sources/annotations;C:/Users/héhé/git/lorann/controller/src/main/java;C:/Users/héhé/git/lorann/controller/target/generated-sources/annotations;C:/Users/héhé/git/lorann/model/src/main/java;C:/Users/héhé/git/lorann/model/target/generated-sources/annotations;C:/Users/héhé/git/lorann/view/src/main/java;C:/Users/héhé/git/lorann/view/target/generated-sources/annotations;C:/Users/héhé/git/lorann/main/src/main/java;C:/Users/héhé/git/lorann/main/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2018. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/héhé/git/lorann/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'lorann 0.0.1-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Users/héhé/git/lorann/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'lorann 0.0.1-SNAPSHOT API'
